@@ -1,0 +1,11 @@
+{
+  "name": "pardini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Juliana",
+  "license": "ISC"
+}
